@@ -1,4 +1,4 @@
-# knime-workflows
+# knime-tk-workflows
 KNIME workflows
 Workflows for prediction of inhalation toxicokinetics from chemical/molecular structure. Contains three versions: single exposure setup, multiple exposure setups and HFC exposure setups.
 
